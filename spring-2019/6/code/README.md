@@ -1,8 +1,8 @@
 Step 1: Install a local instance of Mongodb:
-Follow links https://docs.mongodb.com/v3.2/administration/install-community/ and https://docs.mongodb.com/manual/installation/
+Follow links https://docs.mongodb.com/v3.2/administration/install-community/ and/or https://docs.mongodb.com/manual/installation/
 
 Step 2: Install eclipse and maven: 
-https://www.eclipse.org/downloads/packages/
+https://www.eclipse.org/downloads/packages/ | 
 https://www.eclipse.org/m2e/
 
 Step 3: Clone the repository and open the project as a Maven project 
