@@ -1,7 +1,3 @@
-Describe here who did what in the project or report
-
-<--Detailed report(doc file) to be added-->
-
 1.1. Work done on Message Brokers:
 a. Research on Apollo ActiveMQ: Nishant Jain
 b. Implementation\Testing of Apollo ActiveMQ: Arpit Bansal
